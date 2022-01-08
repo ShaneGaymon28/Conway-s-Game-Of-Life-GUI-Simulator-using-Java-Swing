@@ -1,4 +1,4 @@
-# Conway-s-Game-Of-Life-GUI-Simulator-using-Java-Swing
+# Conways Game Of Life GUI Simulator using Java Swing
 A MVC simulator with GUI for John Conway's Game of Life
 
 This project implements the Model-View-Controller architectural pattern for a Conway's Game of Life Simulation.
